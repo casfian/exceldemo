@@ -11,7 +11,7 @@
 <body>
 
 <div class="container">
-  <h2 style="text-align:center;">Bar Chart in Laravel 8 - Online Web Tutor</h2>
+  <h2 style="text-align:center;">Bar Chart in Laravel 8</h2>
   <div class="panel panel-primary">
     <div class="panel-heading">Bar Chart in Laravel 8</div>
     <div class="panel-body">
